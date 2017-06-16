@@ -28,6 +28,7 @@ Scripts for administrative tasks.
   * `afs-get-versions`  - report server versions
   * `afs-vol-paths`     - process output of volscan
   * `afs-read-audit`    - example sysvmq audit reader
+  * `afs-vos2sysid`     - rebuild missing /afs/usr/local/sysid from VLDB information
 
 ## Audit
 
